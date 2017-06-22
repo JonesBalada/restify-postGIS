@@ -2,7 +2,7 @@
     "kind": "Template",
     "apiVersion": "v1",
     "metadata": {
-        "name": "br.com.coelhoti.restify-postGIS",
+        "name": "coelhoti.com.br",
         "annotations": {
             "description": "A single-page client-side map of US National Parks using Nodejs with Restify, and a PostgreSQL database service (without persistent storage).",
             "iconClass": "icon-postgresql",
