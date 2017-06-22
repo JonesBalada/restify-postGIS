@@ -27,7 +27,7 @@ Launch the application from the command line using the provided kubernetes templ
 
 Or, optionally install the template to make it easier to launch via the web:
 
-    oc create -f https://raw.githubusercontent.com/ryanj/restify-postGIS/master/restify-postgis-template.json
+    oc create -f https://raw.githubusercontent.com/JonesBalada/restify-postGIS/master/restify-postgis-template.json
 
 Then, view your new project in the openshift web console, clicking on "Add to Project" to find the template. Finally, confirm the application configuration details to launch the app using your browser.
 
